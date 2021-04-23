@@ -1,0 +1,3 @@
+FengLee: 0
+Pyjonýr: 1
+Kimiko: 10000

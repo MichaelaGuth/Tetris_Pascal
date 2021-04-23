@@ -1,0 +1,13 @@
+﻿[Image1]
+Coordinates=10,10,57,58
+
+[]
+Coordinates=152,1,91,36
+
+[backButton]
+Coordinates=133,10,57,58
+
+[tabulka]
+Coordinates=77,10,46,58
+Visible=True
+
